@@ -1,6 +1,6 @@
 // Variáveis que armazenarão o nome do Heroi e seus pontos de XP
 let nome = "Dagoberto";
-let XP = 1999;
+let XP = 10500;
 // Estrutura condicional if e else para definir o Nivel de Poder do Heroi
  if(XP >= 1000 && XP <= 1999){console.log(nome + " Seu Nivel de Poder é Ferro")}
 else if(XP >= 1001 && XP <= 2000){console.log(nome + " Seu Nivel de Poder é Bronze")}
